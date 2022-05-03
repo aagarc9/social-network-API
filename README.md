@@ -3,7 +3,7 @@
 ## Description
 This repository is a demonstration of some API calls that would be useful for a social networking pp using Mongoose.
 
-Here is a [demo]  to see the calls! 
+Here is a [demo] https://www.youtube.com/watch?v=G2eBe01mbP8 and https://www.youtube.com/watch?v=eIzcRgWCiu8 to see the calls! 
 ## Table of Contents
 [Installation](#installation)
 
@@ -30,6 +30,6 @@ Licensed under Unlicense.
 ## Questions
 If you have any questions, here is a link to my github as well as my email address. Feel free to contanct me!
 
-[Github]( "My Github")
+[Github](https://github.com/aagarc9/social-network-API "My Github")
 
 [Email]( "My Email")
